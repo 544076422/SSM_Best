@@ -5,6 +5,7 @@ import org.springframework.security.core.userdetails.User;
 import java.util.List;
 
 public class Role {
+    //RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
     private String id;
     private String roleName;
     private String roleDesc;
